@@ -27,5 +27,6 @@ body{
 }
 
 .icon-container i{
-    padding: 0;
+    padding: 1rem;
+    color: white;
 }
