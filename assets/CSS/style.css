@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(rgba(0 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/Images/11.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+
+}
+
+.main-section{
+    height: 100vh;
+}
+
+.icon-container{
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.icon-container i{
+    padding: 0;
+}
